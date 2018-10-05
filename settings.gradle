@@ -1,4 +1,4 @@
-rootProject.name = 'tool-jvm-parent'
+rootProject.name = 'sb-scene-flow'
 
 include "core"
 include "dsl"
