@@ -1,4 +1,5 @@
 rootProject.name = 'sb-scene-flow'
 
-include "core"
-include "dsl"
+include 'core'
+include 'dsl:dsl-groovy'
+include 'dsl:dsl-kotlin'
